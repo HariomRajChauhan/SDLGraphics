@@ -1,0 +1,12 @@
+/src
+/.vscode
+/assets
+/music
+main.cpp
+main.exe
+Makefile
+
+SDL2.dll
+SDL2_image.dll
+SDL2_mixer.dll
+SDL2_ttf.dll
