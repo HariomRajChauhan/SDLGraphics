@@ -2,6 +2,9 @@
 /.vscode
 /assets
 /music
+/programs
+/fonts
+/test
 main.cpp
 main.exe
 Makefile
