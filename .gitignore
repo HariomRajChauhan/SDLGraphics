@@ -5,9 +5,7 @@
 /programs
 /fonts
 /test
-main.cpp
 main.exe
-Makefile
 
 SDL2.dll
 SDL2_image.dll
